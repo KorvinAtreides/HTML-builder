@@ -6,7 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "node 01-read-file": "npm run 01-read-file/index.js",
     "node 02-write-file": "npm run 02-write-file/index.js",
-    "node 03-files-in-folder": "npm run 03-files-in-folder/index.js"
+    "node 03-files-in-folder": "npm run 03-files-in-folder/index.js",
+    "node 04-copy-directory": "npm run 04-copy-directory/index.js"
   },
   "author": "evgeniimal",
   "license": "ISC",
