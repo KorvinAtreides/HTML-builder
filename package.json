@@ -8,7 +8,8 @@
     "node 02-write-file": "npm run 02-write-file/index.js",
     "node 03-files-in-folder": "npm run 03-files-in-folder/index.js",
     "node 04-copy-directory": "npm run 04-copy-directory/index.js",
-    "node 05-merge-styles": "npm run 05-merge-styles/index.js"
+    "node 05-merge-styles": "npm run 05-merge-styles/index.js",
+    "node 06-build-page": "npm run 06-build-page/index.js"
   },
   "author": "evgeniimal",
   "license": "ISC",
